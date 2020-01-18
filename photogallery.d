@@ -1,0 +1,16 @@
+.\photogallery.o: PhotoGallery.c
+.\photogallery.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\photogallery.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\photogallery.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\photogallery.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\photogallery.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\photogallery.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\photogallery.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\photogallery.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\photogallery.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\photogallery.o: GLCD.h
+.\photogallery.o: LED.h
+.\photogallery.o: ADC.h
+.\photogallery.o: KBD.h
+.\photogallery.o: keanu.c
+.\photogallery.o: tap.c

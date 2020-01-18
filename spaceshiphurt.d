@@ -1,0 +1,1 @@
+.\spaceshiphurt.o: spaceshipHurt.c

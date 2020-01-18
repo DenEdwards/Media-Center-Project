@@ -1,0 +1,14 @@
+.\gamemenu.o: GameMenu.c
+.\gamemenu.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\gamemenu.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\gamemenu.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\gamemenu.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\gamemenu.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\gamemenu.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\gamemenu.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\gamemenu.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\gamemenu.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\gamemenu.o: GLCD.h
+.\gamemenu.o: LED.h
+.\gamemenu.o: ADC.h
+.\gamemenu.o: KBD.h
